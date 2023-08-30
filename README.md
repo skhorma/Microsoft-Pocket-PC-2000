@@ -1,6 +1,6 @@
 # The ENIAC
 
-![alt text](https://www.simslifecycle.com/wp-content/uploads/sites/2/2022/01/Electronic-Numerical-Integrator-And-Computer.png)
+## ![alt text](https://www.simslifecycle.com/wp-content/uploads/sites/2/2022/01/Electronic-Numerical-Integrator-And-Computer.png)
 
 *Backround*
 
