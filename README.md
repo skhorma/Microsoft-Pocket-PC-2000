@@ -20,7 +20,8 @@ The quick access-time memory capacity of the ENIAC was increased by 100 words us
 
 **Comparison Mac vs. ENIAC**
 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"](https://photos5.appleinsider.com/gallery/32087-54714-MBP-vs-MBA-2019-09-xl.jpg)
+![alt text](https://photos5.appleinsider.com/gallery/32087-54714-MBP-vs-MBA-2019-09-xl.jpg)
+
 
 **Processor type:**
 
