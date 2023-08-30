@@ -20,3 +20,16 @@ The quick access-time memory capacity of the ENIAC was increased by 100 words us
 
 **Comparison Mac vs. ENIAC**
 
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"](https://photos5.appleinsider.com/gallery/32087-54714-MBP-vs-MBA-2019-09-xl.jpg)
+
+**Processor type:**
+
+2.3 GHz Dual-Core Intel Core i5
+
+**Specs:**
+
+Intel Iris Plus Graphics 640 1536 MB
+
+**Memory**
+
+8 GB 2133 MHz LPDDR3
