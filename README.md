@@ -6,7 +6,7 @@
 
 Completed in 1945, the ENIAC was the first programmable, electronic, general-purpose digital computer. These features might be found in combinations on other computers, but the ENIAC had them all in one device.
 
-# **The ENIAC*
+# **The ENIAC**
 
 **Processor type:**
 
