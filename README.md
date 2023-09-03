@@ -6,6 +6,8 @@
 
 Completed in 1945, the ENIAC was the first programmable, electronic, general-purpose digital computer. These features might be found in combinations on other computers, but the ENIAC had them all in one device.
 
+# **The ENIAC**
+
 **Processor type:**
 
 The ENIAC processed operations in sequence. Even though the ENIAC had parallel processing, it wasn't frequently employed because series processing at the time had a strong processing power and didn't require much parallel processing.
@@ -18,7 +20,7 @@ The machine was constructed of 40 panels that were positioned along three of the
 
 The quick access-time memory capacity of the ENIAC was increased by 100 words using a parallel static magnetic memory device. The ENIAC now only has 20 words of electronic accumulator-based internal memory.
 
-# 💻 **Mac Book Pro 2020** 💻
+# 💻 **MacBook Pro 2020** 💻
 
 ![alt text](https://photos5.appleinsider.com/gallery/32087-54714-MBP-vs-MBA-2019-09-xl.jpg)
 
