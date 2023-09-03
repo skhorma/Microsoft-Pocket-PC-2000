@@ -1,4 +1,4 @@
-# The ENIAC
+# 🖥️ **The ENIAC** 🖥️
 
 ![alt text](https://www.simslifecycle.com/wp-content/uploads/sites/2/2022/01/Electronic-Numerical-Integrator-And-Computer.png)
 
@@ -18,12 +18,9 @@ The machine was constructed of 40 panels that were positioned along three of the
 
 The quick access-time memory capacity of the ENIAC was increased by 100 words using a parallel static magnetic memory device. The ENIAC now only has 20 words of electronic accumulator-based internal memory.
 
-**Comparison Mac vs. ENIAC**
-
-# Mac Book Pro 2020
+# 💻 **Mac Book Pro 2020** 💻
 
 ![alt text](https://photos5.appleinsider.com/gallery/32087-54714-MBP-vs-MBA-2019-09-xl.jpg)
-
 
 **Processor type:**
 
@@ -36,3 +33,7 @@ Intel Iris Plus Graphics 640 1536 MB
 **Memory**
 
 8 GB 2133 MHz LPDDR3
+
+# **Comparison Mac vs. ENIAC**
+
+The differenec between a 2020 MacBook Pro to an ENIAC computer is that many modern laptop computers are only a few pounds and are capable of performing several billion operations per second, whereas ENIAC could only process 5,000 addition problems per second. Modern laptops, despite their strength, are slow in comparison to supercomputers of the same era. 
